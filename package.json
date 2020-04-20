@@ -1,0 +1,22 @@
+{
+  "name": "play-with-aerospike",
+  "version": "1.0.0",
+  "description": "Some simple Nodejs scripts to play with aerospike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3pweb/play-with-aerospike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s3pweb/play-with-aerospike/issues"
+  },
+  "homepage": "https://github.com/s3pweb/play-with-aerospike#readme",
+  "dependencies": {
+    "aerospike": "^3.15.0"
+  }
+}
