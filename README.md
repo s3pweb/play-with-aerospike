@@ -11,11 +11,5 @@ For ubuntu : sudo apt-get install libssl0.9.8 libssl-dev liblua5.1-dev
 
 # Play
 
-node 01-insert.js
-node 01-read.js
-node 01-delete.js
-
-node 02-insert-with-secondary.js
-node 02-read-with-secondary.js
-node 02-read-predexp-with-secondary.js
+Please respect file order
 
